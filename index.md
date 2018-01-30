@@ -46,3 +46,37 @@ Hiring me will make your product better.
 [TinyApp](https://github.com/krsnachandra/tinyapp)
 - A basic app to shorten URLs
 - Node.JS, Express, Bcrypt, EJS
+
+### Education
+
+#### Lighthouse Labs 2017
+Web Development Bootcamp
+
+#### York University 2009
+Honours BA
+Double Major Mathematics and Philosophy
+Bilingual Certificate - Fluent in French
+
+### Employment
+
+#### Customer Success Manager at Weddingful 2016
+Managed all aspects of customer service.
+Data analysis for business decisions. 
+
+#### Account Manager at MSB 2013-2016
+Analyzing and organizing data with SQL, Tableau, and Excel for reports.
+Managing report projects.
+Guiding clients through technical integration.
+High standard bilingual customer support on the phone and by email.
+Gathering know your client (KYC) documentation. 
+
+#### Account Executive at iATS Payments 2012-2013
+Building client relationships to finalize sales and set up accounts.
+Negotiating rate and contract reviews.
+Prioritizing effectively to open accounts in a timely manner.
+Surpassing accuracy goals for contracts and client records in SalesForce.
+
+#### Customer Service Representative at iATS Payments 2010-2012
+High standard bilingual customer support on the phone and by email.
+Multitasking to solve customer issues and complete projects while accepting calls.
+Expertise in risk inquiries, fraud, reconciliation, and virtual terminal troubleshooting.
