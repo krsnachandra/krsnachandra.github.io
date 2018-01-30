@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Meet your new employee
 
-You can use the [editor on GitHub](https://github.com/krsnachandra/krsnachandra.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Avatar](https://avatars2.githubusercontent.com/u/23459400?s=400&u=f087a447964e53ef59728861e3de4415104a3007&v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Chandra Musterer, a full-stack web developer with a passion for problem solving and creating quality products. I revel in fine-tuning projects to make them more secure, complete, and pleasing to the user even when things go wrong. When I'm not creating elegant code, you will find me creating elegant movements on the fusion dance floor.
 
-### Markdown
+In university I followed my interests and studied math and philosophy. During my time at York University my love of logic brought me to new heights. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From customer service to sales and account management, I spent six successful years in payment processing. My project and business experience has made me sensitive to the needs of clients, managers, and coworkers. I believe that clear communication is essential to being a good teammate.
 
-```markdown
-Syntax highlighted code block
+I am a conscientious employee, offering a fresh point of view. 
+Being aware of the assumptions made will allow us to shake them up. 
+Seeing the big picture will allow us to make better decisions. 
+Hiring me will make your product better.
 
-# Header 1
-## Header 2
-### Header 3
+### I have worked with
 
-- Bulleted
-- List
+- JavaScript
+- Ruby
+- HTML
+- CSS
+- SQL
+- React
+- jQuery
+- Ruby on Rails
+- Express JS
+- Node.JS
+- PostgreSQL
+- MongoDB
 
-1. Numbered
-2. List
+### Projects
 
-**Bold** and _Italic_ and `Code` text
+[Learning Light](https://github.com/krsnachandra/learning-light)
+- Final project, an app for Lighthouse Labs to present their free online courses.
+- Will be going live in the coming weeks.
+- React, Axios, Bootstrap, Ruby on Rails, Bcrypt, JWT, Knock, PostgreSQL
 
-[Link](url) and ![Image](src)
-```
+[Resource Wall](https://github.com/krsnachandra/resourcewall)
+- Midterm project, a site to save links to helpful resources. 
+- Node.JS, Express, Knex, EJS, Bcrypt, PostgreSQL
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Chatty](https://github.com/krsnachandra/chatty)
+- A simple chat room app.
+- React, Webpack, Babel
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krsnachandra/krsnachandra.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[TinyApp](https://github.com/krsnachandra/tinyapp)
+- A basic app to shorten URLs
+- Node.JS, Express, Bcrypt, EJS
