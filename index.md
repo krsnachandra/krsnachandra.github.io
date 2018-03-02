@@ -21,6 +21,7 @@ Hiring me will make your product better.
 - CSS
 - SQL
 - React
+- Redux
 - jQuery
 - Ruby on Rails
 - Express JS
