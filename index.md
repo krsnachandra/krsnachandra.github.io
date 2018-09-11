@@ -2,9 +2,9 @@
 
 ![Avatar](https://avatars2.githubusercontent.com/u/23459400?s=400&u=f087a447964e53ef59728861e3de4415104a3007&v=4)
 
-I'm Chandra Musterer, a full-stack web developer with a passion for problem solving and creating quality products. I revel in fine-tuning projects to make them more secure, complete, and pleasing to the user even when things go wrong. When I'm not creating elegant code, you will find me creating elegant movements on the fusion dance floor.
+I'm Krsna Chandra Musterer, a full-stack web developer with a passion for problem solving and creating quality products. I revel in fine-tuning projects to make them more secure, complete, and pleasing to the user even when things go wrong. When I'm not creating elegant code, you will find me creating elegant movements on the fusion dance floor.
 
-In university I followed my interests and studied math and philosophy. During my time at York University my love of logic brought me to new heights. 
+In university I followed my interests and studied math and philosophy. During my time at York University my love of logic brought me to new heights.
 
 From customer service to sales and account management, I spent six successful years in payment processing. My project and business experience has made me sensitive to the needs of clients, managers, and coworkers. I believe that clear communication is essential to being a good teammate.
 
@@ -31,13 +31,29 @@ Hiring me will make your product better.
 
 ### Projects
 
+*21-Day Coding Challenge*
+- Lighthouse Labs project where users complete JavaScript challenges daily.
+- QA UI, UX, challenges, adding features and fixing bugs.
+- JavaScript, Express, PostgreSQL
+
+*Compass*
+- Lighthouse Labs curriculum delivery tool.
+- Extensive backend tracking for admins.
+- Adding features and fixing bugs for all Lighthouse students and staff across the country.
+- Ruby on Rails, React, Bootstrap, Inky, PostgreSQL
+
+*Freelance*
+- Working on apps for health and science companies.
+- Git workflow includes issues, branching, pull requests, etc.
+- React, Redux, Material-UI Electron.
+
 [Learning Light](https://github.com/krsnachandra/learning-light)
 - Final project, an app for Lighthouse Labs to present their free online courses.
 - Will be going live in the coming weeks.
 - React, Axios, Bootstrap, Ruby on Rails, Bcrypt, JWT, Knock, PostgreSQL
 
 [Resource Wall](https://github.com/krsnachandra/resourcewall)
-- Midterm project, a site to save links to helpful resources. 
+- Midterm project, a site to save links to helpful resources.
 - Node.JS, Express, Knex, EJS, Bcrypt, PostgreSQL
 
 [Chatty](https://github.com/krsnachandra/chatty)
@@ -62,14 +78,14 @@ Bilingual Certificate - Fluent in French
 
 #### Customer Success Manager at Weddingful 2016
 Managed all aspects of customer service.  
-Data analysis for business decisions. 
+Data analysis for business decisions.
 
 #### Account Manager at MSB 2013-2016
 Analyzing and organizing data with SQL, Tableau, and Excel for reports.  
 Managing report projects.  
 Guiding clients through technical integration.  
 High standard bilingual customer support on the phone and by email.  
-Gathering know your client (KYC) documentation. 
+Gathering know your client (KYC) documentation.
 
 #### Account Executive at iATS Payments 2012-2013
 Building client relationships to finalize sales and set up accounts.  
