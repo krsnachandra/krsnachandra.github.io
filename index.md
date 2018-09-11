@@ -31,18 +31,18 @@ Hiring me will make your product better.
 
 ### Projects
 
-*21-Day Coding Challenge*
+#### 21-Day Coding Challenge
 - Lighthouse Labs project where users complete JavaScript challenges daily.
 - QA UI, UX, challenges, adding features and fixing bugs.
 - JavaScript, Express, PostgreSQL
 
-*Compass*
+#### Compass
 - Lighthouse Labs curriculum delivery tool.
 - Extensive backend tracking for admins.
 - Adding features and fixing bugs for all Lighthouse students and staff across the country.
 - Ruby on Rails, React, Bootstrap, Inky, PostgreSQL
 
-*Freelance*
+#### Freelance	
 - Working on apps for health and science companies.
 - Git workflow includes issues, branching, pull requests, etc.
 - React, Redux, Material-UI Electron.
