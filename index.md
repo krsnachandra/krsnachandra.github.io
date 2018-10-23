@@ -76,6 +76,13 @@ Bilingual Certificate - Fluent in French
 
 ### Employment
 
+#### Mentor at Lighthouse Labs 2018
+Helping Web Development Bootcamps students.
+
+#### Web Developer at Lighthouse Labs 2018
+Added features and fixed bugs in Compass, the curriculum delivery tool.
+Ruby on Rails, React, PostgreSQL.
+
 #### Customer Success Manager at Weddingful 2016
 Managed all aspects of customer service.  
 Data analysis for business decisions.
