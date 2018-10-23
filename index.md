@@ -80,7 +80,7 @@ Bilingual Certificate - Fluent in French
 Helping Web Development Bootcamps students.
 
 #### Web Developer at Lighthouse Labs 2018
-Added features and fixed bugs in Compass, the curriculum delivery tool. 
+Added features and fixed bugs in Compass, the curriculum delivery tool.  
 Ruby on Rails, React, PostgreSQL.
 
 #### Customer Success Manager at Weddingful 2016
